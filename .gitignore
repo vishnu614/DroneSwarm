@@ -1,0 +1,14 @@
+# Node.js dependencies
+drone1/node_modules/
+drone1/build/
+
+# Python dependencies
+back/__pycache__/
+back/venv/
+
+# Environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
